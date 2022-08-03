@@ -121,4 +121,3 @@ student.set_gpa(3.4)
 ```
 
 - in this code we have defined name and the student id, but what is the **`self.__gpa = None`**, here we set the variable gpa to be private as it cannot be accessed directly  because you need a to check it.
-- ​
