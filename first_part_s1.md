@@ -2,7 +2,7 @@
 
 ## what is it
 
-- it's a programming paradigm : is a style of programming, a way of think about software concept of objects.
+- it's a programming paradigm, a style of programming, a way of think about software concept of objects.
 - this system apply on many languages.
 - oop is one of many programming paradigms 
 - we was using procedural programming the way of function to function implementation.
